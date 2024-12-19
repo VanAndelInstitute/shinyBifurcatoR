@@ -1,0 +1,13 @@
+name: Shiny_BifurcatoR
+title: Shiny_BifurcatoR
+username: vai-bbc
+account: vai-bbc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7859998
+bundleId: 9542152
+url: https://vai-bbc.shinyapps.io/Shiny_BifurcatoR/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
